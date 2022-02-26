@@ -16,6 +16,11 @@
 ## Charts under development
 
 -  [AE Volcano Plot prototype](https://xiao-ni.shinyapps.io/volcano-plot/)
--  [Nephro explorer](https://github.com/SafetyGraphics/nep-explorer) [App Example](https://safetygraphics.github.io/nep-explorer/test-page/)
+-  [Nephro explorer](https://github.com/SafetyGraphics/nep-explorer) | [App Example](https://safetygraphics.github.io/nep-explorer/test-page/)
 -  [Hepatic explorer enhancement: Palt](https://safetygraphics.github.io/hep-explorer/test-page/example5/)
 -  [QT explorer prototype](https://xiao-ni.shinyapps.io/safetyGraphics_QT/)
+
+## R in Pharma Presentations 
+
+- [Building Open Source Tools for Safety Monitoring: Advancing Research Through Community Collaboration](https://rinpharma.com/publication/rinpharma_105/) Presented by Becca Krouse at R/Pharma 2019 
+- [safetyGraphics v2.0 - Open Source Collaboration in Pharma using R and Shinyo](https://www.youtube.com/watch?v=2Ykw1jwSw5M) Presented by Jeremy Wildfire at R/Pharma 2020
