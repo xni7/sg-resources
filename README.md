@@ -5,7 +5,7 @@
 - [Interactive Safety Graphics (ISG)](https://safetygraphics.github.io/)
 - [safetyGraphics Github Organization](https://github.com/SafetyGraphics/)
 - [safetyGraphics workshop landing page `safetygraphics.org`](http://safetygraphics.org)
-- [ASA Safety Working Group Homepage](https://community.amstat.org/biop/workinggroups/safety/safety-home)
+- [ASA Safety Working Group Homepage](https://community.amstat.org/biop/workinggroups/safety/safety-homepage)
 
 ## Demos of existing charts
 
