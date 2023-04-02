@@ -11,6 +11,7 @@
 
 -  [safetyGraphics Version 2 demo app](https://jwildfire.shinyapps.io/safetyGraphics/)
 -  [other interactive graphics](https://rhoinc.github.io/safety-explorer-suite/) 
+-  [Patient profiles](https://xiao-ni.shinyapps.io/patprofile/)
 
 
 ## Charts under development
